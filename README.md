@@ -11,7 +11,7 @@
 * [Developer Tea](https://podcasts.apple.com/us/podcast/developer-tea/id955596067)
 * [Code Newbie](https://podcasts.apple.com/us/podcast/codenewbie/id919219256)
 
-# Something Inspirational
+## Something Inspirational
 * [RWDevCon 2017 Inspiration Talk: I’m an Idiot by Richard Turton](https://www.raywenderlich.com/498-rwdevcon-2017-inspiration-talk-i-m-an-idiot-by-richard-turton)
 
 
