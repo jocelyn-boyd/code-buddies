@@ -1,3 +1,3 @@
-# code-buddies-dsa
+# code-buddies
 
-[HackerRank - Linked Lists ](https://github.com/jocelyn-boyd/code-buddies-dsa/tree/main/HackerRank/LinkedList)
+## Table of contents
