@@ -13,3 +13,5 @@
 
 # Something Inspirational
 * [RWDevCon 2017 Inspiration Talk: I’m an Idiot by Richard Turton](https://www.raywenderlich.com/498-rwdevcon-2017-inspiration-talk-i-m-an-idiot-by-richard-turton)
+
+
