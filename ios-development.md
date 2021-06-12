@@ -1,6 +1,13 @@
 # Swift
 * [swift.org documentation](https://swift.org/documentation/)
 
+*Websites to bookmark*
+* [swiftbysundell.com/basics](swiftbysundell.com/basics/)
+* [hackingwithswift.com/learn](https://www.hackingwithswift.com/learn)
+* [donnywals.com](https://www.donnywals.com/)
+* [avanderlee.com](https://www.avanderlee.com/)
+* [iosdevweekly.com](https://iosdevweekly.com/)
+
 # SwiftUI
 ### Beginner
 ***Recommend watching videos in order listed below***
