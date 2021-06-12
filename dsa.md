@@ -6,5 +6,5 @@
 *Swift*
 * [github.com/raywenderlich/swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
 
-## DSA Practice
+## Shared Solutions
 [HackerRank - Linked Lists ](https://github.com/jocelyn-boyd/code-buddies-dsa/tree/main/HackerRank/LinkedList)
