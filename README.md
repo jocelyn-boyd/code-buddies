@@ -5,6 +5,7 @@
 * [iOS Development](https://github.com/jocelyn-boyd/code-buddies/blob/main/ios-development.md)
 * [Data Structures and Algorithms](https://github.com/jocelyn-boyd/code-buddies/blob/main/dsa.md)
 * [Job Prep](https://github.com/jocelyn-boyd/code-buddies/blob/main/job-prep.md)
+* [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
 ## Something Inspirational
 * [Developer Tea Podcast](https://podcasts.apple.com/us/podcast/developer-tea/id955596067)
