@@ -5,9 +5,9 @@
 * [iOS Development](https://github.com/jocelyn-boyd/code-buddies/blob/main/ios-development.md)
 * [Data Structures and Algorithms](https://github.com/jocelyn-boyd/code-buddies/blob/main/dsa.md)
 * [Job Prep](https://github.com/jocelyn-boyd/code-buddies/blob/main/job-prep.md)
-* [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
 ## For The Curious
+* [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 * [Adroid Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course?utm_source=gDigital&utm_medium=website&utm_campaign=gwgsite)
 
 ## Something Listen To
