@@ -7,7 +7,7 @@
 * [Job Prep](https://github.com/jocelyn-boyd/code-buddies/blob/main/job-prep.md)
 * [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
-## Something Inspirational To Listen To
+## Something Listen To
 * [Developer Tea Podcast](https://podcasts.apple.com/us/podcast/developer-tea/id955596067)
 * [Code Newbie Podcast](https://podcasts.apple.com/us/podcast/codenewbie/id919219256)
 * [RWDevCon 2017 Inspiration Talk: I’m an Idiot by Richard Turton](https://www.raywenderlich.com/498-rwdevcon-2017-inspiration-talk-i-m-an-idiot-by-richard-turton)
