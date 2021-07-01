@@ -10,6 +10,3 @@
 
 *Cracking The Coding Interview Solutions, 6th edition*
 * [Arrays and String](https://github.com/jocelyn-boyd/code-buddies/tree/main/cracking-the-coding-interview/Arrays-Strings.playground) - pgs. 90-91
-
-*HackerRank*
-* [Linked Lists](https://github.com/jocelyn-boyd/code-buddies-dsa/tree/main/HackerRank/LinkedList)
