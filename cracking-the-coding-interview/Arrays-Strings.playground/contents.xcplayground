@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='macos' buildActiveScheme='true' executeOnSourceChanges='false' importAppTypes='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='macos' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Notes'/>
+        <page name='Is_Unique'/>
+        <page name='Check_Permutation'/>
+        <page name='URLify'/>
+        <page name='Palindrome_Permutation'/>
+        <page name='One_Away'/>
+        <page name='String_Compression'/>
+        <page name='Rotate_Matrix'/>
+        <page name='Zero_Matrix'/>
+        <page name='String_Rotation'/>
+    </pages>
 </playground>
