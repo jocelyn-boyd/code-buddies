@@ -9,7 +9,7 @@ There are numerous measure of code quality. One important measure is **code main
 ## Solutions
 *Cracking The Coding Interview Solutions, 6th edition*
 * [Arrays and String](https://gist.github.com/jocelyn-boyd/0f8f2c3b76178dd0b7b1ff787f1a9d23) - pgs. 90-91
-* [Linked Lista](https://gist.github.com/jocelyn-boyd/f8742a664f5008b8c2e1b0b2da7567d2) - pgs. 94-95 
+* [Linked Lists](https://gist.github.com/jocelyn-boyd/f8742a664f5008b8c2e1b0b2da7567d2) - pgs. 94-95 
 
 ## Resources
 *Books*
