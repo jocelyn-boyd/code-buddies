@@ -1,8 +1,8 @@
 ![Camping Blackboard Course Tile](https://user-images.githubusercontent.com/52185677/121786099-cd49f180-cb8b-11eb-9ea5-d8be90d9b843.png)
 
 ## Learning Resources
-* [Computer Science Fundamentals](https://github.com/jocelyn-boyd/code-buddies/blob/main/fundamentals.md)
 * [Data Structures and Algorithms](https://github.com/jocelyn-boyd/code-buddies/blob/main/dsa.md)
+* [Computer Science Fundamentals](https://github.com/jocelyn-boyd/code-buddies/blob/main/fundamentals.md)
 * [iOS Development](https://github.com/jocelyn-boyd/code-buddies/blob/main/ios-development.md)
 * [Job Prep](https://github.com/jocelyn-boyd/code-buddies/blob/main/job-prep.md)
 
