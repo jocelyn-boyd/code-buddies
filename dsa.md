@@ -4,6 +4,9 @@
 There are numerous measure of code quality. One important measure is **code maintainability**. Maintainability of code involves such aspects as the readability, organization and modularity of one's code. Another impirtant aspect of highh quality code is **code efficiency**. 
 
 ## Gists
+### Algorithms
+* [Bubble Sort](https://gist.github.com/jocelyn-boyd/1e2773d7bd5a1e4e2dbd455ceb032b99)
+
 * [Dictionary](https://gist.github.com/jocelyn-boyd/8f8f936972faef3afd779a4b45b7b934)
 
 ## Solutions
