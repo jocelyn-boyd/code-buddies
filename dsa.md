@@ -11,7 +11,7 @@ There are numerous measure of code quality. One important measure is **code main
 * [Binary Search](https://gist.github.com/jocelyn-boyd/4bc73957c9175632e6020dd64ec44b3c)
 * [Bubble Sort](https://gist.github.com/jocelyn-boyd/1e2773d7bd5a1e4e2dbd455ceb032b99)
 * [Selection Sort](https://gist.github.com/jocelyn-boyd/63fe7fe85b3586a1708d3e6275993620)
-* Insertion Sort
+* [Insertion Sort](https://gist.github.com/jocelyn-boyd/daec9f3281a2cc8e28caf730aac393c1)
 
 ## Solutions
 *Cracking The Coding Interview Solutions, 6th edition*
