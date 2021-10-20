@@ -5,6 +5,7 @@ There are numerous measure of code quality. One important measure is **code main
 
 ## Gists
 ### Data Structures
+* [Arrays and Sets](https://gist.github.com/jocelyn-boyd/fe5b0f34fe3f76ef0fee0a1031cf083e)
 * [Dictionary](https://gist.github.com/jocelyn-boyd/8f8f936972faef3afd779a4b45b7b934)
 
 ### Algorithms
