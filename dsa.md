@@ -12,6 +12,7 @@ There are numerous measure of code quality. One important measure is **code main
 ### Abstract Data Structures
 * [Stacks](https://gist.github.com/jocelyn-boyd/9f2ef9833f163e61018949d72770a211)
   * Array-based Stack in [JavaScript](https://gist.github.com/jocelyn-boyd/e0edcf441f3fbc2b1317cc1f7ad72af4)
+* Queues
 
 ### Algorithms
 * Binary Search
