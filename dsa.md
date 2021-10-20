@@ -9,6 +9,10 @@ There are numerous measure of code quality. One important measure is **code main
 * [Sets](https://gist.github.com/jocelyn-boyd/840e01305484203baa4cbe985cc0468f)
 * [Dictionary](https://gist.github.com/jocelyn-boyd/8f8f936972faef3afd779a4b45b7b934)
 
+### Abstract Data Structures
+* [Stacks](https://gist.github.com/jocelyn-boyd/9f2ef9833f163e61018949d72770a211)
+  * [Array-based Stack in JavaScript](https://gist.github.com/jocelyn-boyd/e0edcf441f3fbc2b1317cc1f7ad72af4)
+
 ### Algorithms
 * [Binary Search](https://gist.github.com/jocelyn-boyd/4bc73957c9175632e6020dd64ec44b3c)
 * [Bubble Sort](https://gist.github.com/jocelyn-boyd/1e2773d7bd5a1e4e2dbd455ceb032b99)
