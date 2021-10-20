@@ -21,7 +21,7 @@ There are numerous measure of code quality. One important measure is **code main
 * Selection Sort
   * [Swift](https://gist.github.com/jocelyn-boyd/63fe7fe85b3586a1708d3e6275993620)
 * Insertion Sort
-  * [Insertion Sort](https://gist.github.com/jocelyn-boyd/daec9f3281a2cc8e28caf730aac393c1)
+  * [Swift](https://gist.github.com/jocelyn-boyd/daec9f3281a2cc8e28caf730aac393c1)
 
 ## Solutions
 *Cracking The Coding Interview Solutions, 6th edition*
