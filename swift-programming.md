@@ -1,9 +1,13 @@
 # Swift Programming
 
 ## II. The Basics
+* Conditionals
+* Numbers
+* Switch
+* Loops
+* Strings
 
 ## III. Collections and Functions
-
 ### Collection Types
 * [Arrays](https://gist.github.com/jocelyn-boyd/fe5b0f34fe3f76ef0fee0a1031cf083e)
 * [Sets](https://gist.github.com/jocelyn-boyd/840e01305484203baa4cbe985cc0468f)
