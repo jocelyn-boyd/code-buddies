@@ -1,6 +1,7 @@
 ![Camping Blackboard Course Tile](https://user-images.githubusercontent.com/52185677/121786099-cd49f180-cb8b-11eb-9ea5-d8be90d9b843.png)
 
 ## Learning Resources
+* [Swift Programming](https://github.com/jocelyn-boyd/code-buddies/blob/main/swift-programming.md)
 * [Data Structures and Algorithms](https://github.com/jocelyn-boyd/code-buddies/blob/main/dsa.md)
 * [iOS Development](https://github.com/jocelyn-boyd/code-buddies/blob/main/ios-development.md)
 
