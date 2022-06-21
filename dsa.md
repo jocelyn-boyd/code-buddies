@@ -15,16 +15,16 @@ There are numerous measure of code quality. One important measure is **code main
 ### Abstract Data Structures
 | Data Structure | Implementation |
 |----------------|----------------|
-| [Stacks](https://gist.github.com/jocelyn-boyd/9f2ef9833f163e61018949d72770a211) | [JavaScript](https://gist.github.com/jocelyn-boyd/e0edcf441f3fbc2b1317cc1f7ad72af4) / Swift
-| [Queues](https://gist.github.com/jocelyn-boyd/ae30b85f9fb5810ae8134fc55955a6f7) | [JavaScript](https://gist.github.com/jocelyn-boyd/6b811076abd6fa0999dfef467cc654d9) / Swift
+| [Stacks](https://gist.github.com/jocelyn-boyd/9f2ef9833f163e61018949d72770a211) | Swift
+| [Queues](https://gist.github.com/jocelyn-boyd/ae30b85f9fb5810ae8134fc55955a6f7) | Swift
 
 ### Algorithms
 | Algorithm     | Implementation |
 |---------------|----------------|
-| Binary Search | JavaScript / [Swift](https://gist.github.com/jocelyn-boyd/4bc73957c9175632e6020dd64ec44b3c)
-| Bubble Sort   | JavaScript / [Swift](https://gist.github.com/jocelyn-boyd/1e2773d7bd5a1e4e2dbd455ceb032b99)
-| Selection Sort| JavaScript / [Swift](https://gist.github.com/jocelyn-boyd/63fe7fe85b3586a1708d3e6275993620)
-| Insertion Sort| JavaScript / [Swift](https://gist.github.com/jocelyn-boyd/daec9f3281a2cc8e28caf730aac393c1)
+| Binary Search | [Swift](https://gist.github.com/jocelyn-boyd/4bc73957c9175632e6020dd64ec44b3c)
+| Bubble Sort   | [Swift](https://gist.github.com/jocelyn-boyd/1e2773d7bd5a1e4e2dbd455ceb032b99)
+| Selection Sort| [Swift](https://gist.github.com/jocelyn-boyd/63fe7fe85b3586a1708d3e6275993620)
+| Insertion Sort| [Swift](https://gist.github.com/jocelyn-boyd/daec9f3281a2cc8e28caf730aac393c1)
 
 ## Solutions
 *Cracking The Coding Interview Solutions, 6th edition*
