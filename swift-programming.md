@@ -1,4 +1,4 @@
-## BNR Swift Programming Notes
+Swift Programming
 
 ### Data Structures
 * [Arrays](https://gist.github.com/jocelyn-boyd/fe5b0f34fe3f76ef0fee0a1031cf083e)
