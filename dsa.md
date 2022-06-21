@@ -1,16 +1,16 @@
+## BNR Swift Programming Notes
 
-## Data Structures and Algorithms
-
-There are numerous measure of code quality. One important measure is **code maintainability**. Maintainability of code involves such aspects as the readability, organization and modularity of one's code. Another impirtant aspect of highh quality code is **code efficiency**. 
-
-## Swift Basics
 ### Data Structures
 * [Arrays](https://gist.github.com/jocelyn-boyd/fe5b0f34fe3f76ef0fee0a1031cf083e)
 * [Sets](https://gist.github.com/jocelyn-boyd/840e01305484203baa4cbe985cc0468f)
 * [Dictionary](https://gist.github.com/jocelyn-boyd/8f8f936972faef3afd779a4b45b7b934)
 
 ### Functions
-* [Functions]
+* [Functions](https://gist.github.com/jocelyn-boyd/e32ac394f0d9390cee81092c8bfc2868)
+
+## Data Structures and Algorithms
+
+There are numerous measure of code quality. One important measure is **code maintainability**. Maintainability of code involves such aspects as the readability, organization and modularity of one's code. Another impirtant aspect of highh quality code is **code efficiency**. 
 
 ### Abstract Data Structures
 | Data Structure | Implementation |
