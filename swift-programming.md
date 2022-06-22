@@ -33,3 +33,7 @@
 ## V. Advanced Swift
 
 ## VI. Writing Applications
+
+## Resources
+* [The Swift Programming Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+* [Big Nerd Ranch Swift Programming 3rd Edition](https://bignerdranch.com/books/swift-programming-the-big-nerd-ranch-guide-3rd-edition/)
