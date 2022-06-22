@@ -14,8 +14,8 @@
 * [Dictionary](https://gist.github.com/jocelyn-boyd/8f8f936972faef3afd779a4b45b7b934)
 
 ### Functions
-* [Function, Parameters and Return Values](https://gist.github.com/jocelyn-boyd/279a40c93f9ae3735e16423b50f5cd9e)
-* [Function Argument Labels and Parameter names](https://gist.github.com/jocelyn-boyd/93b700efcb6584be5821527a05d9d76d)
+* [Functions, Parameters and Return Values](https://gist.github.com/jocelyn-boyd/279a40c93f9ae3735e16423b50f5cd9e)
+* [Argument Labels and Parameter Names](https://gist.github.com/jocelyn-boyd/93b700efcb6584be5821527a05d9d76d)
 * [Function Types](https://gist.github.com/jocelyn-boyd/0d71eac2b3c73b7008f81a895b24fe08)
 * [Nested Functions](https://gist.github.com/jocelyn-boyd/c7dcffd5c381affedb3eb42f1229032b)
 * [Exiting Early from a Function](https://gist.github.com/jocelyn-boyd/06935b05cf371603e05e18c6a890d874)
