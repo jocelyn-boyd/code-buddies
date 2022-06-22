@@ -33,8 +33,7 @@
 ## V. Advanced Swift
 
 ## VI. Writing Applications
-
-## Concurrency
+### Concurrency
 * [How to use the new Async Await Pattern in Swift 5.5](https://gist.github.com/jocelyn-boyd/dcaf927402e47171d5c0cc45000f6533)
 
 ## Resources
