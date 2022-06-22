@@ -34,6 +34,9 @@
 
 ## VI. Writing Applications
 
+## Concurrency
+* [How to use the new Async Await Pattern in Swift 5.5](https://gist.github.com/jocelyn-boyd/dcaf927402e47171d5c0cc45000f6533)
+
 ## Resources
 * [The Swift Programming Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 * [Big Nerd Ranch Swift Programming 3rd Edition](https://bignerdranch.com/books/swift-programming-the-big-nerd-ranch-guide-3rd-edition/)
