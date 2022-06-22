@@ -3,7 +3,7 @@
 ## II. The Basics
 * Conditionals
 * Numbers
-* Switch
+* Switches
 * Loops
 * Strings
 
