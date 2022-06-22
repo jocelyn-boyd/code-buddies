@@ -37,3 +37,4 @@
 ## Resources
 * [The Swift Programming Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 * [Big Nerd Ranch Swift Programming 3rd Edition](https://bignerdranch.com/books/swift-programming-the-big-nerd-ranch-guide-3rd-edition/)
+* [Tips to Level up my Swift Programming](https://gist.github.com/jocelyn-boyd/fc395af8b5ae21818a74ad50b3827076)
